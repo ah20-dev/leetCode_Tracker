@@ -1,0 +1,3 @@
+Generated with the built-in image generation tool.
+
+Use case: logo-brand. Asset type: macOS app icon for a local LeetCode study progress tracker. Create one polished square icon: deep teal rounded-square tile with a bold ivory code bracket pair and a small mint checkmark integrated in the center. Subtle dimensional bevel, clean restrained macOS app aesthetic. Very simple, thick readable shapes at 32px, generous internal spacing. Front view, centered, no letters or words, no watermark, no surrounding objects. Actual transparent background outside the rounded-square tile. Square 1024px image.
