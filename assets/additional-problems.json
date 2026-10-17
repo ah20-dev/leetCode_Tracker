@@ -1,0 +1,1776 @@
+{
+  "categories": [
+    {
+      "name": "Arrays & Hashing",
+      "problems": [
+        {
+          "n": 1,
+          "name": "Two Sum",
+          "slug": "two-sum",
+          "d": "Easy",
+          "category": "Arrays & Hashing",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                6,
+                7,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "name": "Valid Sudoku",
+          "slug": "valid-sudoku",
+          "d": "Medium",
+          "category": "Arrays & Hashing",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "n": 49,
+          "name": "Group Anagrams",
+          "slug": "group-anagrams",
+          "d": "Medium",
+          "category": "Arrays & Hashing",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                7,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "n": 128,
+          "name": "Longest Consecutive Sequence",
+          "slug": "longest-consecutive-sequence",
+          "d": "Medium",
+          "category": "Arrays & Hashing",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "n": 205,
+          "name": "Isomorphic Strings",
+          "slug": "isomorphic-strings",
+          "d": "Easy",
+          "category": "Arrays & Hashing",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "n": 217,
+          "name": "Contains Duplicate",
+          "slug": "contains-duplicate",
+          "d": "Easy",
+          "category": "Arrays & Hashing",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                8
+              ]
+            }
+          ]
+        },
+        {
+          "n": 242,
+          "name": "Valid Anagram",
+          "slug": "valid-anagram",
+          "d": "Easy",
+          "category": "Arrays & Hashing",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "n": 347,
+          "name": "Top K Frequent Elements",
+          "slug": "top-k-frequent-elements",
+          "d": "Medium",
+          "category": "Arrays & Hashing",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                7,
+                16,
+                21
+              ]
+            }
+          ]
+        },
+        {
+          "n": 560,
+          "name": "Subarray Sum Equals K",
+          "slug": "subarray-sum-equals-k",
+          "d": "Medium",
+          "category": "Arrays & Hashing",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                7
+              ]
+            }
+          ]
+        },
+        {
+          "n": 2365,
+          "name": "Task Scheduler II",
+          "slug": "task-scheduler-ii",
+          "d": "Medium",
+          "category": "Arrays & Hashing",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                8
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Two Pointers",
+      "problems": [
+        {
+          "n": 11,
+          "name": "Container With Most Water",
+          "slug": "container-with-most-water",
+          "d": "Medium",
+          "category": "Two Pointers",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "name": "3Sum",
+          "slug": "3sum",
+          "d": "Medium",
+          "category": "Two Pointers",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                7,
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "name": "Remove Duplicates from Sorted Array",
+          "slug": "remove-duplicates-from-sorted-array",
+          "d": "Easy",
+          "category": "Two Pointers",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "n": 42,
+          "name": "Trapping Rain Water",
+          "slug": "trapping-rain-water",
+          "d": "Hard",
+          "category": "Two Pointers",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "n": 75,
+          "name": "Sort Colors",
+          "slug": "sort-colors",
+          "d": "Medium",
+          "category": "Two Pointers",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                9,
+                11
+              ]
+            }
+          ]
+        },
+        {
+          "n": 125,
+          "name": "Valid Palindrome",
+          "slug": "valid-palindrome",
+          "d": "Easy",
+          "category": "Two Pointers",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "n": 283,
+          "name": "Move Zeroes",
+          "slug": "move-zeroes",
+          "d": "Easy",
+          "category": "Two Pointers",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "n": 881,
+          "name": "Boats to Save People",
+          "slug": "boats-to-save-people",
+          "d": "Medium",
+          "category": "Two Pointers",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                11
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sliding Window",
+      "problems": [
+        {
+          "n": 3,
+          "name": "Longest Substring Without Repeating Characters",
+          "slug": "longest-substring-without-repeating-characters",
+          "d": "Medium",
+          "category": "Sliding Window",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                11,
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "n": 209,
+          "name": "Minimum Size Subarray Sum",
+          "slug": "minimum-size-subarray-sum",
+          "d": "Medium",
+          "category": "Sliding Window",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                11,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "n": 239,
+          "name": "Sliding Window Maximum",
+          "slug": "sliding-window-maximum",
+          "d": "Hard",
+          "category": "Sliding Window",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "n": 438,
+          "name": "Find All Anagrams in a String",
+          "slug": "find-all-anagrams-in-a-string",
+          "d": "Medium",
+          "category": "Sliding Window",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                12
+              ]
+            },
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 567,
+          "name": "Permutation in String",
+          "slug": "permutation-in-string",
+          "d": "Medium",
+          "category": "Sliding Window",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                12,
+                22
+              ]
+            }
+          ]
+        },
+        {
+          "n": 643,
+          "name": "Maximum Average Subarray I",
+          "slug": "maximum-average-subarray-i",
+          "d": "Easy",
+          "category": "Sliding Window",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                12
+              ]
+            }
+          ]
+        },
+        {
+          "n": 904,
+          "name": "Fruit Into Baskets",
+          "slug": "fruit-into-baskets",
+          "d": "Medium",
+          "category": "Sliding Window",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "n": 1004,
+          "name": "Max Consecutive Ones III",
+          "slug": "max-consecutive-ones-iii",
+          "d": "Medium",
+          "category": "Sliding Window",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                12
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stack",
+      "problems": [
+        {
+          "n": 20,
+          "name": "Valid Parentheses",
+          "slug": "valid-parentheses",
+          "d": "Easy",
+          "category": "Stack",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "name": "Generate Parentheses",
+          "slug": "generate-parentheses",
+          "d": "Medium",
+          "category": "Stack",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                3,
+                4
+              ]
+            }
+          ]
+        },
+        {
+          "n": 71,
+          "name": "Simplify Path",
+          "slug": "simplify-path",
+          "d": "Medium",
+          "category": "Stack",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "n": 84,
+          "name": "Largest Rectangle in Histogram",
+          "slug": "largest-rectangle-in-histogram",
+          "d": "Hard",
+          "category": "Stack",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                1
+              ]
+            }
+          ]
+        },
+        {
+          "n": 150,
+          "name": "Evaluate Reverse Polish Notation",
+          "slug": "evaluate-reverse-polish-notation",
+          "d": "Medium",
+          "category": "Stack",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "n": 394,
+          "name": "Decode String",
+          "slug": "decode-string",
+          "d": "Medium",
+          "category": "Stack",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "n": 682,
+          "name": "Baseball Game",
+          "slug": "baseball-game",
+          "d": "Easy",
+          "category": "Stack",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "n": 735,
+          "name": "Asteroid Collision",
+          "slug": "asteroid-collision",
+          "d": "Medium",
+          "category": "Stack",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "n": 739,
+          "name": "Daily Temperatures",
+          "slug": "daily-temperatures",
+          "d": "Medium",
+          "category": "Stack",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                19
+              ]
+            },
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                31
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Binary Search",
+      "problems": [
+        {
+          "n": 33,
+          "name": "Search in Rotated Sorted Array",
+          "slug": "search-in-rotated-sorted-array",
+          "d": "Medium",
+          "category": "Binary Search",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "name": "Find First and Last Position of Element in Sorted Array",
+          "slug": "find-first-and-last-position-of-element-in-sorted-array",
+          "d": "Medium",
+          "category": "Binary Search",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "name": "Search Insert Position",
+          "slug": "search-insert-position",
+          "d": "Easy",
+          "category": "Binary Search",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "n": 162,
+          "name": "Find Peak Element",
+          "slug": "find-peak-element",
+          "d": "Medium",
+          "category": "Binary Search",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "n": 704,
+          "name": "Binary Search",
+          "slug": "binary-search",
+          "d": "Easy",
+          "category": "Binary Search",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                1,
+                2,
+                7,
+                13,
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "n": 875,
+          "name": "Koko Eating Bananas",
+          "slug": "koko-eating-bananas",
+          "d": "Medium",
+          "category": "Binary Search",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                14
+              ]
+            }
+          ]
+        },
+        {
+          "n": 1011,
+          "name": "Capacity To Ship Packages Within D Days",
+          "slug": "capacity-to-ship-packages-within-d-days",
+          "d": "Medium",
+          "category": "Binary Search",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                14
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Linked List",
+      "problems": [
+        {
+          "n": 138,
+          "name": "Copy List with Random Pointer",
+          "slug": "copy-list-with-random-pointer",
+          "d": "Medium",
+          "category": "Linked List",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                11,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "n": 141,
+          "name": "Linked List Cycle",
+          "slug": "linked-list-cycle",
+          "d": "Easy",
+          "category": "Linked List",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                29,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "n": 142,
+          "name": "Linked List Cycle II",
+          "slug": "linked-list-cycle-ii",
+          "d": "Medium",
+          "category": "Linked List",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                29
+              ]
+            }
+          ]
+        },
+        {
+          "n": 146,
+          "name": "LRU Cache",
+          "slug": "lru-cache",
+          "d": "Medium",
+          "category": "Linked List",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                6,
+                21
+              ]
+            }
+          ]
+        },
+        {
+          "n": 287,
+          "name": "Find the Duplicate Number",
+          "slug": "find-the-duplicate-number",
+          "d": "Medium",
+          "category": "Linked List",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                11,
+                29
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Trees",
+      "problems": [
+        {
+          "n": 94,
+          "name": "Binary Tree Inorder Traversal",
+          "slug": "binary-tree-inorder-traversal",
+          "d": "Easy",
+          "category": "Trees",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                4,
+                5,
+                6,
+                8,
+                10,
+                11,
+                31,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "n": 98,
+          "name": "Validate Binary Search Tree",
+          "slug": "validate-binary-search-tree",
+          "d": "Medium",
+          "category": "Trees",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                4,
+                8,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "n": 101,
+          "name": "Symmetric Tree",
+          "slug": "symmetric-tree",
+          "d": "Easy",
+          "category": "Trees",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                9,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "n": 102,
+          "name": "Binary Tree Level Order Traversal",
+          "slug": "binary-tree-level-order-traversal",
+          "d": "Medium",
+          "category": "Trees",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 103,
+          "name": "Binary Tree Zigzag Level Order Traversal",
+          "slug": "binary-tree-zigzag-level-order-traversal",
+          "d": "Medium",
+          "category": "Trees",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                8,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "n": 105,
+          "name": "Construct Binary Tree from Preorder and Inorder Traversal",
+          "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+          "d": "Medium",
+          "category": "Trees",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                10,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "n": 110,
+          "name": "Balanced Binary Tree",
+          "slug": "balanced-binary-tree",
+          "d": "Easy",
+          "category": "Trees",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                9,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "n": 112,
+          "name": "Path Sum",
+          "slug": "path-sum",
+          "d": "Easy",
+          "category": "Trees",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                8,
+                9,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "n": 144,
+          "name": "Binary Tree Preorder Traversal",
+          "slug": "binary-tree-preorder-traversal",
+          "d": "Easy",
+          "category": "Trees",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                4,
+                5,
+                8,
+                10,
+                11,
+                31,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "n": 145,
+          "name": "Binary Tree Postorder Traversal",
+          "slug": "binary-tree-postorder-traversal",
+          "d": "Easy",
+          "category": "Trees",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                4,
+                5,
+                6,
+                8,
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 199,
+          "name": "Binary Tree Right Side View",
+          "slug": "binary-tree-right-side-view",
+          "d": "Medium",
+          "category": "Trees",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                7,
+                9,
+                31,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "n": 226,
+          "name": "Invert Binary Tree",
+          "slug": "invert-binary-tree",
+          "d": "Easy",
+          "category": "Trees",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                10,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "n": 230,
+          "name": "Kth Smallest Element in a BST",
+          "slug": "kth-smallest-element-in-a-bst",
+          "d": "Medium",
+          "category": "Trees",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                10,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "n": 236,
+          "name": "Lowest Common Ancestor of a Binary Tree",
+          "slug": "lowest-common-ancestor-of-a-binary-tree",
+          "d": "Medium",
+          "category": "Trees",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                8,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "n": 543,
+          "name": "Diameter of Binary Tree",
+          "slug": "diameter-of-binary-tree",
+          "d": "Easy",
+          "category": "Trees",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                8,
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 1448,
+          "name": "Count Good Nodes in Binary Tree",
+          "slug": "count-good-nodes-in-binary-tree",
+          "d": "Medium",
+          "category": "Trees",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                8,
+                32
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heap / Priority Queue",
+      "problems": [
+        {
+          "n": 215,
+          "name": "Kth Largest Element in an Array",
+          "slug": "kth-largest-element-in-an-array",
+          "d": "Medium",
+          "category": "Heap / Priority Queue",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                16
+              ]
+            }
+          ]
+        },
+        {
+          "n": 295,
+          "name": "Find Median from Data Stream",
+          "slug": "find-median-from-data-stream",
+          "d": "Hard",
+          "category": "Heap / Priority Queue",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                21
+              ]
+            }
+          ]
+        },
+        {
+          "n": 355,
+          "name": "Design Twitter",
+          "slug": "design-twitter",
+          "d": "Medium",
+          "category": "Heap / Priority Queue",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                21
+              ]
+            }
+          ]
+        },
+        {
+          "n": 373,
+          "name": "Find K Pairs with Smallest Sums",
+          "slug": "find-k-pairs-with-smallest-sums",
+          "d": "Medium",
+          "category": "Heap / Priority Queue",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                16,
+                22
+              ]
+            }
+          ]
+        },
+        {
+          "n": 621,
+          "name": "Task Scheduler",
+          "slug": "task-scheduler",
+          "d": "Medium",
+          "category": "Heap / Priority Queue",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                8,
+                15,
+                16,
+                21
+              ]
+            }
+          ]
+        },
+        {
+          "n": 703,
+          "name": "Kth Largest Element in a Stream",
+          "slug": "kth-largest-element-in-a-stream",
+          "d": "Easy",
+          "category": "Heap / Priority Queue",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "n": 973,
+          "name": "K Closest Points to Origin",
+          "slug": "k-closest-points-to-origin",
+          "d": "Medium",
+          "category": "Heap / Priority Queue",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                16
+              ]
+            }
+          ]
+        },
+        {
+          "n": 1046,
+          "name": "Last Stone Weight",
+          "slug": "last-stone-weight",
+          "d": "Easy",
+          "category": "Heap / Priority Queue",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                15
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Backtracking",
+      "problems": [
+        {
+          "n": 39,
+          "name": "Combination Sum",
+          "slug": "combination-sum",
+          "d": "Medium",
+          "category": "Backtracking",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "name": "Combination Sum II",
+          "slug": "combination-sum-ii",
+          "d": "Medium",
+          "category": "Backtracking",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "n": 46,
+          "name": "Permutations",
+          "slug": "permutations",
+          "d": "Medium",
+          "category": "Backtracking",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                1,
+                3,
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "n": 47,
+          "name": "Permutations II",
+          "slug": "permutations-ii",
+          "d": "Medium",
+          "category": "Backtracking",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "n": 78,
+          "name": "Subsets",
+          "slug": "subsets",
+          "d": "Medium",
+          "category": "Backtracking",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                1,
+                3,
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "n": 79,
+          "name": "Word Search",
+          "slug": "word-search",
+          "d": "Medium",
+          "category": "Backtracking",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                6
+              ]
+            },
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                19,
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 90,
+          "name": "Subsets II",
+          "slug": "subsets-ii",
+          "d": "Medium",
+          "category": "Backtracking",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "n": 291,
+          "name": "Word Pattern II",
+          "slug": "word-pattern-ii",
+          "d": "Medium",
+          "category": "Backtracking",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                8,
+                22
+              ]
+            }
+          ]
+        },
+        {
+          "n": 784,
+          "name": "Letter Case Permutation",
+          "slug": "letter-case-permutation",
+          "d": "Medium",
+          "category": "Backtracking",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                4
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Graphs",
+      "problems": [
+        {
+          "n": 127,
+          "name": "Word Ladder",
+          "slug": "word-ladder",
+          "d": "Hard",
+          "category": "Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                16,
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 133,
+          "name": "Clone Graph",
+          "slug": "clone-graph",
+          "d": "Medium",
+          "category": "Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                27,
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 200,
+          "name": "Number of Islands",
+          "slug": "number-of-islands",
+          "d": "Medium",
+          "category": "Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 207,
+          "name": "Course Schedule",
+          "slug": "course-schedule",
+          "d": "Medium",
+          "category": "Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                24,
+                25,
+                28,
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 210,
+          "name": "Course Schedule II",
+          "slug": "course-schedule-ii",
+          "d": "Medium",
+          "category": "Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                25,
+                28,
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 261,
+          "name": "Graph Valid Tree",
+          "slug": "graph-valid-tree",
+          "d": "Medium",
+          "category": "Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 286,
+          "name": "Walls and Gates",
+          "slug": "walls-and-gates",
+          "d": "Medium",
+          "category": "Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 323,
+          "name": "Number of Connected Components in an Undirected Graph",
+          "slug": "number-of-connected-components-in-an-undirected-graph",
+          "d": "Medium",
+          "category": "Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                13,
+                29,
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 547,
+          "name": "Number of Provinces",
+          "slug": "number-of-provinces",
+          "d": "Medium",
+          "category": "Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 684,
+          "name": "Redundant Connection",
+          "slug": "redundant-connection",
+          "d": "Medium",
+          "category": "Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                26,
+                29
+              ]
+            }
+          ]
+        },
+        {
+          "n": 695,
+          "name": "Max Area of Island",
+          "slug": "max-area-of-island",
+          "d": "Medium",
+          "category": "Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 721,
+          "name": "Accounts Merge",
+          "slug": "accounts-merge",
+          "d": "Medium",
+          "category": "Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                26
+              ]
+            }
+          ]
+        },
+        {
+          "n": 841,
+          "name": "Keys and Rooms",
+          "slug": "keys-and-rooms",
+          "d": "Medium",
+          "category": "Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                27,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "n": 864,
+          "name": "Shortest Path to Get All Keys",
+          "slug": "shortest-path-to-get-all-keys",
+          "d": "Hard",
+          "category": "Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 994,
+          "name": "Rotting Oranges",
+          "slug": "rotting-oranges",
+          "d": "Medium",
+          "category": "Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                21,
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 1334,
+          "name": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+          "slug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+          "d": "Medium",
+          "category": "Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "n": 2290,
+          "name": "Minimum Obstacle Removal to Reach Corner",
+          "slug": "minimum-obstacle-removal-to-reach-corner",
+          "d": "Hard",
+          "category": "Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                31
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Advanced Graphs",
+      "problems": [
+        {
+          "n": 743,
+          "name": "Network Delay Time",
+          "slug": "network-delay-time",
+          "d": "Medium",
+          "category": "Advanced Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                27,
+                29,
+                31
+              ]
+            }
+          ]
+        },
+        {
+          "n": 787,
+          "name": "Cheapest Flights Within K Stops",
+          "slug": "cheapest-flights-within-k-stops",
+          "d": "Medium",
+          "category": "Advanced Graphs",
+          "sources": [
+            {
+              "file": "java-algo-cheatsheet.pdf",
+              "pages": [
+                31
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2-D Dynamic Programming",
+      "problems": [
+        {
+          "n": 1143,
+          "name": "Longest Common Subsequence",
+          "slug": "longest-common-subsequence",
+          "d": "Medium",
+          "category": "2-D Dynamic Programming",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                20,
+                22
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Greedy",
+      "problems": [
+        {
+          "n": 763,
+          "name": "Partition Labels",
+          "slug": "partition-labels",
+          "d": "Medium",
+          "category": "Greedy",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                10,
+                11,
+                22
+              ]
+            }
+          ]
+        },
+        {
+          "n": 846,
+          "name": "Hand of Straights",
+          "slug": "hand-of-straights",
+          "d": "Medium",
+          "category": "Greedy",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                17
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intervals",
+      "problems": [
+        {
+          "n": 252,
+          "name": "Meeting Rooms",
+          "slug": "meeting-rooms",
+          "d": "Easy",
+          "category": "Intervals",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                16
+              ]
+            }
+          ]
+        },
+        {
+          "n": 253,
+          "name": "Meeting Rooms II",
+          "slug": "meeting-rooms-ii",
+          "d": "Medium",
+          "category": "Intervals",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                16
+              ]
+            }
+          ]
+        },
+        {
+          "n": 729,
+          "name": "My Calendar I",
+          "slug": "my-calendar-i",
+          "d": "Medium",
+          "category": "Intervals",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "n": 1229,
+          "name": "Meeting Scheduler",
+          "slug": "meeting-scheduler",
+          "d": "Medium",
+          "category": "Intervals",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "n": 1288,
+          "name": "Remove Covered Intervals",
+          "slug": "remove-covered-intervals",
+          "d": "Medium",
+          "category": "Intervals",
+          "sources": [
+            {
+              "file": "interview-notes-clear.pdf",
+              "pages": [
+                17
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
